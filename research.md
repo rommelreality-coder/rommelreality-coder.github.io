@@ -1,4 +1,4 @@
 layout: page
-title: "Research"
-permalink: /research
-More about research
+title: "Contact"
+permalink: /about/contact
+contact me
