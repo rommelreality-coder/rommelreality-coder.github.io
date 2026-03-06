@@ -1,3 +1,3 @@
 layout: page
-title: "Welcome to my page"
-permalink: /about/contact
+title: "About Me"
+permalink: /about/me
