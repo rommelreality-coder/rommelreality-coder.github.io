@@ -21,14 +21,10 @@ During the ANU 3MT competition back in 2018.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uvQV4se7oaM?si=mLrW-HYwfYvikLVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Publications
-<details>
-  <summary> List </summary>
-
 1. _Hanke-Raus rule for Landweber iteration in Banach spaces_. 2024. Numerische Mathematik , Vol. 156, No. 1. p. 345-373. [DOI](https://doi.org/10.1007/s00211-023-01389-1)
 2. _A revisit on Landweber iteration 2020. Inverse Problems_, Vol. 36, No. 7. IOP Publishing. p. 075011. (with Qinian Jin). [DOI](https://dx.doi.org/10.1088/1361-6420/ab8bc4)
 3. _Heuristic discrepancy principle for variational regularization of inverse problems_. 2020.  Inverse Problems , Vol. 36, No. 7, IOP Publishing, p. 075013. (with Huan Liu, Xiliang Lu, and Qinian Jin) [DOI](https://dx.doi.org/10.1088/1361-6420/ab844a)
 
-</details>
 
 # Research Conferences
 
