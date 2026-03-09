@@ -13,21 +13,18 @@ I support [_Federico Ardila's axioms_](https://fardila.com/) :
 regularization for inverse problems, specifically their convergence under various conditions and their application towards problems across science (imaging, systems biology, physics, etc.)
 
 ## Inverse Problems Lecture
-(An Introduction to Inverse Problems)[https://www.carmin.tv/en/collections/an-introduction-to-inverse-problems], recorded in July 2025 at (CIRM - Centre International de Rencontres Mathématiques)[https://www.cirm-math.com/]. This was made in part of (CIMPA-ICTP Research in Pairs)[https://www.cimpa.info/en/node/65].
+[An Introduction to Inverse Problems](https://www.carmin.tv/en/collections/an-introduction-to-inverse-problems), recorded in July 2025 at [CIRM - Centre International de Rencontres Mathématiques](https://www.cirm-math.com/). This was made in part of [CIMPA-ICTP Research in Pairs](https://www.cimpa.info/en/node/65).
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8BU-WTzF1yg?si=VyKXVd18z_wVquT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## My PhD Research in 3 Minutes
 Check this out
 
+# Publications
 <details>
   <summary>Publications</summary>
-
-# Publications
-
 1. (*Rommel Real*) Hanke-Raus rule for Landweber iteration in Banach spaces. 2024. Numerische Mathematik , Vol. 156, No. 1. p. 345-373. [DOI](https://doi.org/10.1007/s00211-023-01389-1)
 2. (*Real, Rommel* / Jin, Qinian) A revisit on Landweber iteration 2020. Inverse Problems , Vol. 36, No. 7. IOP Publishing. p. 075011. [DOI](https://dx.doi.org/10.1088/1361-6420/ab8bc4)
 3. (Liu, Huan / *Real, Rommel* / Lu, Xiliang / Jia, Xianzheng / Jin, Qinian) Heuristic discrepancy principle for variational regularization of inverse problems. 2020.  Inverse Problems , Vol. 36, No. 7, IOP Publishing, p. 075013. [DOI](https://dx.doi.org/10.1088/1361-6420/ab844a)
-
 </details>
 
 # Research Conferences
