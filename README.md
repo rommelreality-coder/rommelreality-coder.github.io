@@ -7,6 +7,7 @@ I support [_Federico Ardila's axioms_](https://fardila.com/) :
 2. Everyone can have joyful, meaningful, and empowering mathematical experiences.
 3. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.
 4. Every student deserves to be treated with dignity and respect
+
 # Research Interests
 regularization for inverse problems, specifically their convergence under various conditions and their application towards problems across science (imaging, systems biology, physics, etc.)
 
