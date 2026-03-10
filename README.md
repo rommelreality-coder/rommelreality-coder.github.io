@@ -1,7 +1,8 @@
-# Welcome to my page!
-My name is **Rommel Rabongue Real**, mathematics faculty at [University of the Philippines Mindanao](https://www.upmin.edu.ph/). \
+# Welcome
+My name is **Rommel Rabongue Real**, mathematics faculty at the [Department of Mathematics, Physics, and Computer Science](https://www.facebook.com/OfficialDMPCS/), [University of the Philippines Mindanao](https://www.upmin.edu.ph/). \
 ![CIRM, 2025](/assets/rommel1.png)\
-I finished my PhD in the [Mathematical Sciences Institute](https://maths.anu.edu.au/) of [The Australian National University](https://www.anu.edu.au/) under the supervision of [Qinian Jin](https://researchportalplus.anu.edu.au/en/persons/qinian-jin/).
+I finished my PhD in the [Mathematical Sciences Institute](https://maths.anu.edu.au/) of [The Australian National University](https://www.anu.edu.au/) under the supervision of [Qinian Jin](https://researchportalplus.anu.edu.au/en/persons/qinian-jin/).\
+***More info***: [ResearchGate](https://www.researchgate.net/profile/Rommel-Real), [Google Scholar](https://scholar.google.com/citations?user=7xyR3PAAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-2774-6174), [zbMATH](https://zbmath.org/authors/?q=ai:real.rommel-r) [CV](/assets/RealCV2026.pdf)\
 
 # Declaration
 I support [_Federico Ardila's axioms_](https://fardila.com/) : 
@@ -28,9 +29,9 @@ During the ANU 3MT competition back in 2018.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uvQV4se7oaM?si=mLrW-HYwfYvikLVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Publications
-1. _Hanke-Raus rule for Landweber iteration in Banach spaces_. 2024. Numerische Mathematik , Vol. 156, No. 1. p. 345-373. [DOI](https://doi.org/10.1007/s00211-023-01389-1)
-2. _A revisit on Landweber iteration 2020. Inverse Problems_, Vol. 36, No. 7. IOP Publishing. p. 075011. (with Qinian Jin). [DOI](https://dx.doi.org/10.1088/1361-6420/ab8bc4)
-3. _Heuristic discrepancy principle for variational regularization of inverse problems_. 2020.  Inverse Problems , Vol. 36, No. 7, IOP Publishing, p. 075013. (with Huan Liu, Xiliang Lu, and Qinian Jin) [DOI](https://dx.doi.org/10.1088/1361-6420/ab844a)
+- _Hanke-Raus rule for Landweber iteration in Banach spaces_. 2024. Numerische Mathematik , Vol. 156, No. 1. p. 345-373. [DOI](https://doi.org/10.1007/s00211-023-01389-1)
+- _A revisit on Landweber iteration 2020. Inverse Problems_, Vol. 36, No. 7. IOP Publishing. p. 075011. (with Qinian Jin). [DOI](https://dx.doi.org/10.1088/1361-6420/ab8bc4)
+- _Heuristic discrepancy principle for variational regularization of inverse problems_. 2020.  Inverse Problems , Vol. 36, No. 7, IOP Publishing, p. 075013. (with Huan Liu, Xiliang Lu, and Qinian Jin) [DOI](https://dx.doi.org/10.1088/1361-6420/ab844a)
 
 
 
