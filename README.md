@@ -2,7 +2,7 @@
 My name is **Rommel Rabongue Real**, mathematics faculty at the [Department of Mathematics, Physics, and Computer Science](https://www.facebook.com/OfficialDMPCS/), [University of the Philippines Mindanao](https://www.upmin.edu.ph/). \
 ![CIRM, 2025](/assets/rommel1.png)\
 I finished my PhD in the [Mathematical Sciences Institute](https://maths.anu.edu.au/) of [The Australian National University](https://www.anu.edu.au/) under the supervision of [Qinian Jin](https://researchportalplus.anu.edu.au/en/persons/qinian-jin/).\
-***More info***: [ResearchGate](https://www.researchgate.net/profile/Rommel-Real), [Google Scholar](https://scholar.google.com/citations?user=7xyR3PAAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-2774-6174), [zbMATH](https://zbmath.org/authors/?q=ai:real.rommel-r) [CV](/assets/RealCV2026.pdf)\
+***More info***: [ResearchGate](https://www.researchgate.net/profile/Rommel-Real), [Google Scholar](https://scholar.google.com/citations?user=7xyR3PAAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0002-2774-6174), [zbMATH](https://zbmath.org/authors/?q=ai:real.rommel-r), [CV](/assets/RealCV2026.pdf)
 
 # Declaration
 I support [_Federico Ardila's axioms_](https://fardila.com/) : 
