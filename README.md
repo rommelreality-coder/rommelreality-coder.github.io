@@ -12,7 +12,7 @@ I support [_Federico Ardila's axioms_](https://fardila.com/) :
 4. Every student deserves to be treated with dignity and respect
 
 # Events
-- Invited speaker, [**Continuum Mechanics Focusing on Singularities – Numerical Analysis & Scientific Computing 2026 (CoMFoS-NASC 2026)**](https://comfos-nasc2026.github.io/CoMFoSNASC2026/), Lapu-Lapu City, Cebu, Philippines
+- Invited speaker, [**The 10th Young Scholar Symposium of the East Asia Section of IPIA**](https://ncts.ntu.edu.tw/events_2_detail.php?nid=550), National Taiwan University, Taipei, Taiwan
 - ~~Co-organizer and Lecturer, [SEAMS School on Inverse Problems and Optimal Control](https://seamsschool2025baguio.github.io/seamsschool2025baguio/), 3-12 December 2025, University of the Phiilippines Baguio~~
 -  ~~Lecturer, SEAMS School 2023 on Scientific Computing for Differential Equations and Applications, 22 November 2023 to 1 December 2023 at the Institute of Mathematics, University of the Philippines Diliman, Quezon City, Philippines.~~
 
