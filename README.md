@@ -45,3 +45,7 @@ During the ANU 3MT competition back in 2018.
 1. Master of Science in Applied Mathematics (major in Optimization and Approximation), [Institute of Mathematics](https://math.upd.edu.ph/),  University of the Philippines Diliman
 
 2. Bachelor of Science in Applied Mathematics (major in Operations Research), University of the Philippines Mindanao
+
+# Potential thesis students
+
+I am intersted on working with thesis students interested on inverse problems and its particular applications.
